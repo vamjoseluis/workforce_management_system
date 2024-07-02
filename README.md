@@ -34,3 +34,4 @@ Name: Bob, Salary: 7000.0
 * Design and implement the system in Java.
 * Ensure that the system is flexible and follows best practices for object-oriented design.
 * Test the system with a few employee instances and print their details using the reporting mechanism.
+
