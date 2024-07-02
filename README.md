@@ -29,3 +29,8 @@ When running the system, the output should include the details of the employees,
 Name: Alice, Salary: 8000.0
 Name: Bob, Salary: 7000.0
 ```
+
+## Instructions:
+* Design and implement the system in Java.
+* Ensure that the system is flexible and follows best practices for object-oriented design.
+* Test the system with a few employee instances and print their details using the reporting mechanism.
