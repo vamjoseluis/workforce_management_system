@@ -9,9 +9,9 @@ You have been tasked with designing a system to manage the employees of a compan
 
 ## Salary Calculation:
 
-*The system must be able to calculate the salary for different types of employees.
-*Managers receive a fixed bonus in addition to their base salary.
-*Developers receive a project-based bonus in addition to their base salary.
+* The system must be able to calculate the salary for different types of employees.
+* Managers receive a fixed bonus in addition to their base salary.
+* Developers receive a project-based bonus in addition to their base salary.
 
 ## Reporting:
 
